@@ -1,0 +1,65 @@
+{
+  "books": [
+    [
+      {
+        "id": "123456",
+        "category": "Fiction",
+        "author": "Harper Lee",
+        "name": "To kill a Mockingbird",
+        "rating": 4.3,
+        "Awards": "Pulitzer",
+        "moreInfo": "https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird"
+      },
+      {
+        "id": "123457",
+        "category": "Fiction",
+        "author": "George R. R. Martin",
+        "name": "A song of Ice and fire",
+        "rating": 4.6,
+        "moreInfo": "https://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire"
+      },
+      {
+        "id": "123458",
+        "category": "History",
+        "author": "Jawaharlal Nehru",
+        "name": "The discovery of India",
+        "rating": 3.5,
+        "moreInfo": "https://en.wikipedia.org/wiki/The_Discovery_of_India"
+      },
+      {
+        "id": "123459",
+        "category": "Fiction",
+        "author": "Khaled Hosseini",
+        "name": "A Thousand Splendid Suns",
+        "rating": 4.4,
+        "moreInfo": "https://en.wikipedia.org/wiki/A_Thousand_Splendid_Suns"
+      },
+      {
+        "id": "123460",
+        "category": "Science & Fiction",
+        "author": "Robin Cook",
+        "name": "Chromosome 6",
+        "rating": 4.5,
+        "moreInfo": "https://www.mouthshut.com/review/Chromosome-6-Robin-Cook-review-qpuotlmpt"
+      },
+      {
+        "id": "123461",
+        "category": "Romance",
+        "author": "Erich Segal",
+        "name": "Love Story",
+        "rating": "3.6",
+        "movie": "Love Story",
+        "moreInfo": "https://en.wikipedia.org/wiki/Love_Story_(novel)"
+      },
+      {
+        "id": "123462",
+        "category": "Classics",
+        "author": "William Shakespeare",
+        "name": "Othello",
+        "rating": 3.9,
+        "movie": "Othello",
+        "moreInfo": "https://en.wikipedia.org/wiki/Othello"
+      }
+    ]
+  ]
+}

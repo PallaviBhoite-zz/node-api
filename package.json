@@ -1,0 +1,19 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "book management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "books"
+  ],
+  "author": "Pallavi Bhoite",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security"
+  }
+}
