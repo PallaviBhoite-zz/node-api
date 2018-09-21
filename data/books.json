@@ -1,5 +1,5 @@
 {
-  "books": [
+  "books":
     [
       {
         "id": "123456",
@@ -61,5 +61,4 @@
         "moreInfo": "https://en.wikipedia.org/wiki/Othello"
       }
     ]
-  ]
 }
